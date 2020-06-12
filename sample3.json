@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "untitled folder",
+        "type": "Folder",
+        "exten": "none"
+    },
+    {
+        "id": 2,
+        "name": "Enlight4",
+        "type": "File",
+        "exten": ".JPG"
+    },
+    {
+        "id": 3,
+        "name": "EpicInstaller-10.15.2",
+        "type": "File",
+        "exten": ".dmg"
+    },
+    {
+        "id": 4,
+        "name": "vs_community__1096104872.1591392710",
+        "type": "File",
+        "exten": ".exe"
+    },
+    {
+        "id": 5,
+        "name": "android-studio-ide-193.6514223-mac",
+        "type": "File",
+        "exten": ".dmg"
+    },
+    {
+        "id": 6,
+        "name": "VisualStudioForMacInstaller__1096104872.1591392710",
+        "type": "File",
+        "exten": ".dmg"
+    },
+    {
+        "id": 7,
+        "name": "FetchJSONandImagesDemo",
+        "type": "Folder",
+        "exten": "none"
+    },
+    {
+        "id": 8,
+        "name": "Skype-8.61.0.77",
+        "type": "File",
+        "exten": ".dmg"
+    }
+]
