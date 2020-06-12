@@ -1,3 +1,0 @@
-First line in file 1
-
-Third line in file 1
