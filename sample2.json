@@ -1,0 +1,60 @@
+{
+    "Entry": [
+        {
+            "id": 1,
+            "name": "untitled folder",
+            "type": "Folder",
+            "exten": "none",
+            "path": "/Users/ehsanyazdanpanah/Downloads/untitled folder"
+        },
+        {
+            "id": 2,
+            "name": "Enlight4",
+            "type": "File",
+            "exten": ".JPG",
+            "path": "/Users/ehsanyazdanpanah/Downloads/Enlight4.JPG"
+        },
+        {
+            "id": 3,
+            "name": "EpicInstaller-10.15.2",
+            "type": "File",
+            "exten": ".dmg",
+            "path": "/Users/ehsanyazdanpanah/Downloads/EpicInstaller-10.15.2.dmg"
+        },
+        {
+            "id": 4,
+            "name": "vs_community__1096104872.1591392710",
+            "type": "File",
+            "exten": ".exe",
+            "path": "/Users/ehsanyazdanpanah/Downloads/vs_community__1096104872.1591392710.exe"
+        },
+        {
+            "id": 5,
+            "name": "android-studio-ide-193.6514223-mac",
+            "type": "File",
+            "exten": ".dmg",
+            "path": "/Users/ehsanyazdanpanah/Downloads/android-studio-ide-193.6514223-mac.dmg"
+        },
+        {
+            "id": 6,
+            "name": "VisualStudioForMacInstaller__1096104872.1591392710",
+            "type": "File",
+            "exten": ".dmg",
+            "path": "/Users/ehsanyazdanpanah/Downloads/VisualStudioForMacInstaller__1096104872.1591392710.dmg"
+        },
+        {
+            "id": 7,
+            "name": "FetchJSONandImagesDemo",
+            "type": "Folder",
+            "exten": "none",
+            "path": "/Users/ehsanyazdanpanah/Downloads/FetchJSONandImagesDemo"
+        },
+        {
+            "id": 8,
+            "name": "Skype-8.61.0.77",
+            "type": "File",
+            "exten": ".dmg",
+            "path": "/Users/ehsanyazdanpanah/Downloads/Skype-8.61.0.77.dmg"
+        }
+    ]
+}
