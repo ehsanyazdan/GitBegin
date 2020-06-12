@@ -40,11 +40,5 @@
         "name": "FetchJSONandImagesDemo",
         "type": "Folder",
         "exten": "none"
-    },
-    {
-        "id": 8,
-        "name": "Skype-8.61.0.77",
-        "type": "File",
-        "exten": ".dmg"
     }
 ]
